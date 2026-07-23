@@ -1,2 +1,5 @@
 data/breast_cancer_data
 .DS_Store
+data/.DS_Store
+relevant\ paper/
+.claude/
